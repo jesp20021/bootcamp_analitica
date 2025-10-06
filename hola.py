@@ -5,3 +5,6 @@ if edad >=18:
 else:
     print("Eres Menor de edad")
 print("Fin del programa")
+
+'''comentario
+segundo comentario'''
