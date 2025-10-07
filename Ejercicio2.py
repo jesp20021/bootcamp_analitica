@@ -4,4 +4,5 @@ data1={'Producto':['Manazana','Banana','Cereza'],
        'Cantidad':[10,15,8]}
 dataf=pd.DataFrame(data1)
 print(dataf)
-filtro=()
+filtro=dataf[dataf['Cantidad']>=10]
+print(filtro)
