@@ -1,0 +1,17 @@
+[
+    {
+        "nombres":"Ana",
+        "fecha_nac":"12/05/1998",
+        "profesion":"Ingeniero"
+    },
+    {
+        "nombres":"Juan",
+        "fecha_nac":"10/04/2000",
+        "profesion":"Medico"
+    },
+    {
+        "nombres":"Pedro",
+        "fecha_nac":"10/04/1985",
+        "profesion":"Abogado"
+    }
+]
